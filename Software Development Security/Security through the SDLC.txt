@@ -1,0 +1,7 @@
+Project Initiation----Security Framework
+Functional Design Analysis----Security Requirements
+System Design Analysis----Security Specifications
+Implenation---Integrate Security into Code
+Testing---Vulnerability Assessment/Penetration Testing
+Operations--Security auditing and patches/updates...maybe recertification and reacreditation
+Disposal---Secure transfer/disposal of system
